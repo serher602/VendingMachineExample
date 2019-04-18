@@ -1,0 +1,14 @@
+C:\Users\sherna57\Documents\Visual Studio 2017\Projects\Proj3-Hernandez\Proj3-Hernandez\bin\Debug\Proj3-Hernandez.exe.config
+C:\Users\sherna57\Documents\Visual Studio 2017\Projects\Proj3-Hernandez\Proj3-Hernandez\bin\Debug\Proj3-Hernandez.exe
+C:\Users\sherna57\Documents\Visual Studio 2017\Projects\Proj3-Hernandez\Proj3-Hernandez\bin\Debug\Proj3-Hernandez.pdb
+C:\Users\sherna57\Documents\Visual Studio 2017\Projects\Proj3-Hernandez\Proj3-Hernandez\obj\Debug\Proj3-Hernandez.csprojResolveAssemblyReference.cache
+C:\Users\sherna57\Documents\Visual Studio 2017\Projects\Proj3-Hernandez\Proj3-Hernandez\obj\Debug\MainWindow.g.cs
+C:\Users\sherna57\Documents\Visual Studio 2017\Projects\Proj3-Hernandez\Proj3-Hernandez\obj\Debug\App.g.cs
+C:\Users\sherna57\Documents\Visual Studio 2017\Projects\Proj3-Hernandez\Proj3-Hernandez\obj\Debug\Proj3-Hernandez_MarkupCompile.cache
+C:\Users\sherna57\Documents\Visual Studio 2017\Projects\Proj3-Hernandez\Proj3-Hernandez\obj\Debug\Proj3-Hernandez_MarkupCompile.lref
+C:\Users\sherna57\Documents\Visual Studio 2017\Projects\Proj3-Hernandez\Proj3-Hernandez\obj\Debug\MainWindow.baml
+C:\Users\sherna57\Documents\Visual Studio 2017\Projects\Proj3-Hernandez\Proj3-Hernandez\obj\Debug\Proj3-Hernandez.g.resources
+C:\Users\sherna57\Documents\Visual Studio 2017\Projects\Proj3-Hernandez\Proj3-Hernandez\obj\Debug\Proj3_Hernandez.Properties.Resources.resources
+C:\Users\sherna57\Documents\Visual Studio 2017\Projects\Proj3-Hernandez\Proj3-Hernandez\obj\Debug\Proj3-Hernandez.csproj.GenerateResource.Cache
+C:\Users\sherna57\Documents\Visual Studio 2017\Projects\Proj3-Hernandez\Proj3-Hernandez\obj\Debug\Proj3-Hernandez.exe
+C:\Users\sherna57\Documents\Visual Studio 2017\Projects\Proj3-Hernandez\Proj3-Hernandez\obj\Debug\Proj3-Hernandez.pdb
